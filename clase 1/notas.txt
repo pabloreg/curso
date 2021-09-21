@@ -1,0 +1,2 @@
+href ./ abre el path del mismo nivel
+../ si tengo varias acrpetas anidadas
