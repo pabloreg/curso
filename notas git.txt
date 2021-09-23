@@ -12,3 +12,6 @@ git status
 
 https://www.freecodecamp.org/espanol/news/10-comandos-de-git-que-todo-desarrollador-deberia-saber/
 https://docs.microsoft.com/es-es/learn/modules/work-source-control-git/2-configure-git
+
+token
+vscode://vscode.github-authentication/did-authenticate?windowid=1&code=2c3c51921a3b2e01a419&state=3fe06c29-cb27-4327-82c7-6bd4811c327c
