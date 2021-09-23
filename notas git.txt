@@ -1,0 +1,14 @@
+git --version
+git version 2.33.0.windows.2
+
+git config --global user.email "pabloreg@yahoo.com"
+
+git config --global user.name "Pabloreg"
+
+git init
+git add . 
+git commit -m "comentarios"
+git status
+
+https://www.freecodecamp.org/espanol/news/10-comandos-de-git-que-todo-desarrollador-deberia-saber/
+https://docs.microsoft.com/es-es/learn/modules/work-source-control-git/2-configure-git
